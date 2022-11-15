@@ -1,4 +1,6 @@
-📖 # Book-cover-challenge
+📖 
+# Book-cover-challenge
+
 In this project I tried to reproduce the cover of a book I was reading. 
 The most worked 'language' was css.
 
